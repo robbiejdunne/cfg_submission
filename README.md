@@ -9,7 +9,7 @@ This repository is the code submitted by [Edd Webster](https://twitter.com/eddwe
   <a href="https://www.twitter.com/eddwebster"><img src="img/club_badges/manchester-city-fc-banner.jpg"></a>
 </p>
 
-## :wave: About This Repository and Author
+## :wave: About this Repository and Author
 Please note, all the work produced in this repository is mine and/or credited to the publicly produced code, data, and/or libraries used, and is in no way related to the work and analysis I produce for my employers.
 
 For more information about this repository and the author, I am available through all the following channels:
@@ -31,9 +31,9 @@ For more information about this repository and the author, I am available throug
 *    [Podcasts](#podcasts)
 
 ## :notebook_with_decorative_cover: Notebooks
-For code, see the [notebooks](https://github.com/eddwebster/mcfc_submission/tree/master/notebooks) subfolder, in which the workflow is divided into the following:
-*    [Shots](https://github.com/eddwebster/football_analytics/tree/master/notebooks/shots) - build a chance quality model that calculates the probability of a shot resulting in a goal; and
-*    [Metrica Sports](https://github.com/eddwebster/football_analytics/tree/master/notebooks/metrica-sports) -  identification of shot in a y the shots in this game and write a short report describing the major chances that each team created during the game, making use of the chance quality model that you developed from the shots data.
+For code used to produce the Chance Quality Model and game two of the Metrica Sports sample data, see the [notebooks](https://github.com/eddwebster/mcfc_submission/tree/master/notebooks) subfolder, in which the workflow is divided into the following:
+*    [Shots](https://github.com/eddwebster/football_analytics/tree/master/notebooks/shots) - the Chance Quality Model that calculates the probability of a shot resulting in a goal; and
+*    [Metrica Sports](https://github.com/eddwebster/football_analytics/tree/master/notebooks/metrica-sports) - analysis of the major chances that each team created during game 2, using the Chance Quality Model developed from the shots data.
 
 ## :floppy_disk: Data Sources
 
