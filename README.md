@@ -1,4 +1,4 @@
-# Edd Webster Junior Data Scientst Data Challenge Submission
+# Edd Webster Junior Data Scientist Data Challenge Submission
 This repository is the code submitted by [Edd Webster](https://twitter.com/eddwebster) for the Manchester City F.C. Junior Data Scientist Data Challenge submission, including a list of publicly available resources published by the football analytics community that are related to the project.
 
 <p align="center">
