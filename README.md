@@ -10,9 +10,7 @@ This repository is the code submitted by [Edd Webster](https://twitter.com/eddwe
 </p>
 
 ## :wave: About this Repository and Author
-Please note, all the work produced in this repository is mine and/or credited to the publicly produced code, data, and/or libraries used, and is in no way related to the work and analysis I produce for my employers.
-
-For more information about this repository and the author, I am available through all the following channels:
+For more information about this repository, I am available through all the following channels:
 *    [eddwebster.com](https://www.eddwebster.com/);
 *    edd.j.webster@gmail.com;
 *    [@eddwebster](https://www.twitter.com/eddwebster);
