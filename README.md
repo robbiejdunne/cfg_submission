@@ -136,9 +136,6 @@ For a YouTube playlist of over 800 Sports Analytics / Data Science videos that I
 *    [Data Analytics in Football](https://www.amazon.co.uk/Data-Analytics-Football-Daniel-Memmert/) by [Daniel Memmert](https://twitter.com/DMemmert) and Dominik Raabe
 
 ## :loud_sound: Podcasts 
-Spotify and YouTube links used where available.
-
-### Football Analytics Podcasts
 List of notable episodes:
 *    [All Stats Aren't We](https://open.spotify.com/show/22eR0UCjDdVXY2JTtjD3OI?si=kt_lY1m2QKukOvKvmWpsPA):
      +    [Bonus Episode: David Sumpter - The Ten Equations that Rule the World](https://open.spotify.com/episode/2aWNiGHVH29qnXdrw12Iet?si=gU5__QfvRsCCxjE7XjcRhQ)
