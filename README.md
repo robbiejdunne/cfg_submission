@@ -6,7 +6,7 @@ This repository is the code submitted by [Edd Webster](https://twitter.com/eddwe
 </p>
 
 <p align="center">
-  <a href="https://www.twitter.com/eddwebster"><img src="img/club_badges/manchester-city-fc-banner.jpg"></a>
+  <a href="https://www.mancity.com/"><img src="img/club_badges/manchester-city-fc-banner.jpg"></a>
 </p>
 
 ## :wave: About this Repository and Author
