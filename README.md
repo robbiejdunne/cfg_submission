@@ -46,7 +46,7 @@ All documentation saved locally in the [documentation](https://github.com/eddweb
 *    [Metrica Sports event definitions](https://github.com/metrica-sports/sample-data/blob/master/documentation/events-definitions.pdf).
 
 ## Resources
-For a full list publicly available resources published by the football analytics community, see my [`football_analytics`](https://github.com/eddwebster/football_analytics) repository.
+To see my attempt to create as concise a list of possible of publicly available resources published by the football analytics community, see my [`football_analytics`](https://github.com/eddwebster/football_analytics) repository.
 
 The follow resources are those used to inform and create my submission for the Manchester City F.C. Junior Data Scientist Data Challenge, specifically focussing on Expected Goals and Tracking data. Credits to all those cited below.
 
