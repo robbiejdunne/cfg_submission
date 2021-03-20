@@ -84,7 +84,7 @@ For a full list of Expected Goals literature, see the following [[link](https://
 *    [Structure in football: putting formations into context](https://eightyfivepoints.blogspot.com/2020/12/structure-in-football-putting.html) by [Laurie Shaw](https://twitter.com/EightyFivePoint);
 *    [xG explained](https://fbref.com/en/expected-goals-model-explained/) by FBref; 
 *    [Should you write about real goals or expected goals? A guide for journalists](https://soccermatics.medium.com/should-you-write-about-real-goals-or-expected-goals-a-guide-for-journalists-2cf0c7ec6bb6) by David Sumpter;
-*    How Data Availability affects the ability to learn good xG models by Jesse Davis and Pieter Robberechts for KU Leuven;
+*    [How Data Availability affects the ability to learn good xG models](https://dtai.cs.kuleuven.be/sports/blog/how-data-availability-affects-the-ability-to-learn-good-xg-models/) by Jesse Davis and Pieter Robberechts for KU Leuven;
 *    [Expected Goals and Unexpected Goals](https://web.archive.org/web/20200724125157/http://business-analytic.co.uk/blog/expected-goals-and-unexpected-goals/) by Garry Gelade;
 *    [Assessing Expected Goals Models. Part 1: Shots](https://web.archive.org/web/20200724125157/http://business-analytic.co.uk/blog/evaluating-expected-goals-models/) by Garry Gelade; and
 *    [Assessing Expected Goals Models. Part 2: Anatomy of a Big Chance](https://web.archive.org/web/20200724125157/http://business-analytic.co.uk/blog/assessing-expected-goals-models-part-2-anatomy-of-a-big-chance/) by Garry Gelade.
