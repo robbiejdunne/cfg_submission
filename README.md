@@ -1,6 +1,6 @@
 # Edd Webster Junior Data Scientist Data Challenge Submission
-This repository is the code submitted by [Edd Webster](https://twitter.com/eddwebster) for the Manchester City F.C. Junior Data Scientist Data Challenge submission, including a list of publicly available resources published by the football analytics community that are related to the project. 
-For a summary pack in Google Slides, please see the following [[link](https://docs.google.com/presentation/d/116D0U_ue2sv6hgLBgHniI228cRhph0qfMuOFA4uuxhs/edit?usp=sharing)].
+This repository is the code and analysis submitted by [Edd Webster](https://twitter.com/eddwebster) for the Manchester City F.C. Junior Data Scientist Data Challenge submission, including a list of publicly available resources published by the football analytics community that are related to the project. 
+For a summary pack in Google Slides, please see the following [[link](https://docs.google.com/presentation/d/116D0U_ue2sv6hgLBgHniI228cRhph0qfMuOFA4uuxhs/edit?usp=sharing)], or the PowerPoint version [[link](https://github.com/eddwebster/mcfc_submission/blob/main/slides/Edd%20Webster%20-%20CFG%20Junior%20Data%20Science%20Challenge.pptx)] or PDF version [[link](https://github.com/eddwebster/mcfc_submission/blob/main/slides/Edd%20Webster%20-%20CFG%20Junior%20Data%20Science%20Challenge.pdf)] saved locally in this repository.
 
 <p align="center">
   <a href="https://www.twitter.com/eddwebster"><img src="img/edd_webster/fifa21eddwebsterbanner.png"></a>
@@ -21,7 +21,7 @@ For more information about this repository, I am available through all the follo
 
 ## Contents:
 *    [Notebooks](#notebooks)
-*    [Data Sources](#data--sources)
+*    [Data Sources](#data)
 *    [Resources](#resources)
      +    [Tutorials](#tutorials)
      +    [Libaries and GitHub Repositories](#libraries)
@@ -34,7 +34,7 @@ For code used to produce the Chance Quality Model and game two of the Metrica Sp
 *    [Shots](https://github.com/eddwebster/football_analytics/tree/master/notebooks/shots) - the Chance Quality Model that calculates the probability of a shot resulting in a goal; and
 *    [Metrica Sports](https://github.com/eddwebster/football_analytics/tree/master/notebooks/metrica-sports) - analysis of the major chances that each team created during game 2, using the Chance Quality Model developed from the shots data.
 
-## :floppy_disk: Data Sources
+## :floppy_disk: Data
 
 ### Data sources used
 Due to the 100mb file size limitation in GitHub, all engineered datasets prepared in this repository have been exported and made publicly available to view and download in Google Drive. Please see the following [[link](https://drive.google.com/drive/folders/1r2Rf3CPsKnxyxtmDRIHQ2eoW5WwCzBa0?usp=sharing)]. However, all code in this repository should enable you to scrape, parse, and engineer the datasets to the format in which I have analysed and visualised the data in this repo.
