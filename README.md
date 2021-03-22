@@ -1,5 +1,6 @@
 # Edd Webster Junior Data Scientist Data Challenge Submission
-This repository is the code submitted by [Edd Webster](https://twitter.com/eddwebster) for the Manchester City F.C. Junior Data Scientist Data Challenge submission, including a list of publicly available resources published by the football analytics community that are related to the project.
+This repository is the code submitted by [Edd Webster](https://twitter.com/eddwebster) for the Manchester City F.C. Junior Data Scientist Data Challenge submission, including a list of publicly available resources published by the football analytics community that are related to the project. 
+For a summary pack in Google Slides, please see the following [[link](https://docs.google.com/presentation/d/116D0U_ue2sv6hgLBgHniI228cRhph0qfMuOFA4uuxhs/edit?usp=sharing)].
 
 <p align="center">
   <a href="https://www.twitter.com/eddwebster"><img src="img/edd_webster/fifa21eddwebsterbanner.png"></a>
@@ -8,8 +9,6 @@ This repository is the code submitted by [Edd Webster](https://twitter.com/eddwe
 <p align="center">
   <a href="https://www.mancity.com/"><img src="img/club_badges/manchester-city-fc-banner.jpg"></a>
 </p>
-
-For a summary pack in Google Slides, please see the following [[link](https://docs.google.com/presentation/d/116D0U_ue2sv6hgLBgHniI228cRhph0qfMuOFA4uuxhs/edit?usp=sharing)].
 
 ## :wave: About this Repository and Author
 For more information about this repository, I am available through all the following channels:
