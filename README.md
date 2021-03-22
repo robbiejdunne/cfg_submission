@@ -9,6 +9,8 @@ This repository is the code submitted by [Edd Webster](https://twitter.com/eddwe
   <a href="https://www.mancity.com/"><img src="img/club_badges/manchester-city-fc-banner.jpg"></a>
 </p>
 
+For a summary pack in Google Slides, please see the following [[link](https://docs.google.com/presentation/d/116D0U_ue2sv6hgLBgHniI228cRhph0qfMuOFA4uuxhs/edit?usp=sharing)].
+
 ## :wave: About this Repository and Author
 For more information about this repository, I am available through all the following channels:
 *    [eddwebster.com](https://www.eddwebster.com/);
