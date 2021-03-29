@@ -31,10 +31,10 @@ For more information about this repository, I am available through all the follo
 
 ## :notebook_with_decorative_cover: Notebooks
 For code used to produce the Chance Quality Models and engineered dataset of game two of the Metrica Sports sample data, see the [notebooks](https://github.com/eddwebster/mcfc_submission/tree/master/notebooks) subfolder, in which the workflow is divided into the following:
-*    [Metrica Sports](https://github.com/eddwebster/football_analytics/tree/master/notebooks/metrica-sports) - analysis of the major chances that each team created during game 2, using the Chance Quality Model developed from the shots data.
-*    [Chance Quality Models from Shots Data](https://github.com/eddwebster/football_analytics/tree/master/notebooks/shots) to calculate the probability of a shot resulting in a goal. Two models created (so far), the first, a Logistic Regression model and the second using Gradient Boosting algorithms:
+*    [Metrica Sports](https://github.com/eddwebster/football_analytics/tree/master/notebooks/metrica-sports) - analysis of the major chances that each team created during game 2 with an exported dataset of shots for predictions to be made by the following Chance Quality Models developed from the shots data.
+*    [Chance Quality Models from Shots Data](https://github.com/eddwebster/football_analytics/tree/master/notebooks/shots) to calculate the probability of a shot resulting in a goal. Two models have been created (so far), the first, a Logistic Regression model and the second using Gradient Boosting algorithms:
      +    [Logistic Regression model](https://github.com/eddwebster/mcfc_submission/blob/main/notebooks/chance_quality_modelling/Creating%20a%20Chance%20Quality%20Model%20from%20Shots%20Data.ipynb) - initial model created as part of the submitted task); and
-     +    [Secondary model created using a trained XGBoost model](https://github.com/eddwebster/mcfc_submission/blob/main/notebooks/chance_quality_modelling/2\)%20Gradient%20Boosted%20Chance%20Quality%20Model%20from%20Shots%20Data.ipynb) - an improved model created post the initial submisssion.
+     +    [Secondary model created using XGBoost](https://github.com/eddwebster/mcfc_submission/blob/main/notebooks/chance_quality_modelling/2\)%20Gradient%20Boosted%20Chance%20Quality%20Model%20from%20Shots%20Data.ipynb) - an improved model created after the initial submisssion on 21/03/2021, that explores creating a model with improved performance using Gradient Boosted algoirthms.
 
 ## :floppy_disk: Data
 
