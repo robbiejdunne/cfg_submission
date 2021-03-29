@@ -34,7 +34,7 @@ For code used to produce the Chance Quality Models and engineered dataset of gam
 *    [Metrica Sports](https://github.com/eddwebster/football_analytics/tree/master/notebooks/metrica-sports) - analysis of the major chances that each team created during game 2, using the Chance Quality Model developed from the shots data.
 *    [Chance Quality Models from Shots Data]((https://github.com/eddwebster/football_analytics/tree/master/notebooks/shots)) to calculate the probability of a shot resulting in a goal. Two models created (so far), the first, a Logistic Regression model and the second using Gradient Boosting algorithms:
      +    [Logistic Regression model](https://github.com/eddwebster/mcfc_submission/blob/main/notebooks/chance_quality_modelling/Creating%20a%20Chance%20Quality%20Model%20from%20Shots%20Data.ipynb) - initial model created as part of the submitted task); and
-     +    [Secondary model created using a trained XGBoost model](https://github.com/eddwebster/mcfc_submission/blob/main/notebooks/chance_quality_modelling/2)%20Gradient%20Boosted%20Chance%20Quality%20Model%20from%20Shots%20Data.ipynb) - an improved model created post the initial submisssion.
+     +    [Secondary model created using a trained XGBoost model](https://github.com/eddwebster/mcfc_submission/blob/main/notebooks/chance_quality_modelling/2\)%20Gradient%20Boosted%20Chance%20Quality%20Model%20from%20Shots%20Data.ipynb) - an improved model created post the initial submisssion.
 
 ## :floppy_disk: Data
 
