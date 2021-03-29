@@ -19,7 +19,7 @@ For more information about this repository, I am available through all the follo
 *    [github/eddwebster](https://github.com/eddwebster/); and
 *    [public.tableau.com/profile/edd.webster](https://public.tableau.com/profile/edd.webster).
 
-## Contents:
+## :clipboard: Contents:
 *    [Notebooks](#notebooks)
 *    [Data Sources](#data)
 *    [Resources](#resources)
@@ -36,7 +36,7 @@ For code used to produce the Chance Quality Model and game two of the Metrica Sp
 
 ## :floppy_disk: Data
 
-### Data sources used
+### Data sources
 Due to the 100mb file size limitation in GitHub, all datasets used in this analysis, including the Tracking data, have been exported and made publicly available to view and download in Google Drive at the following [[link](https://drive.google.com/drive/folders/1r2Rf3CPsKnxyxtmDRIHQ2eoW5WwCzBa0?usp=sharing)]. However, all the important files are below 100mb, including the shots data provided, and the exported Metrica Sports shot data with calculated features including Interfering and Intervening players, both raw and engineered, are available in the [data](https://github.com/eddwebster/mcfc_submission/tree/main/data) folder of this repository.
 *    The provided sample of shots data; and
 *    [Metrica Sports Sample Tracking and corresponding Event data](https://github.com/metrica-sports/sample-data). For code to work with this data, see the  [`LaurieOnTracking`](https://github.com/Friends-of-Tracking-Data-FoTD/LaurieOnTracking) GitHub repo by [Laurie Shaw](https://twitter.com/EightyFivePoint) and the corresponding Friends of Tracking tutorials;
@@ -46,7 +46,7 @@ All documentation saved locally in the [documentation](https://github.com/eddweb
 *    Provided notes and definitions for the a sample of shots [[link](https://github.com/eddwebster/mcfc_submission/blob/main/documentation/shots/ShotData.txt)]; and
 *    [Metrica Sports event definitions](https://github.com/metrica-sports/sample-data/blob/master/documentation/events-definitions.pdf).
 
-## Resources
+## :books: Resources
 To see my attempt to create as concise a list of possible of publicly available resources published by the football analytics community, see my [`football_analytics`](https://github.com/eddwebster/football_analytics) repository.
 
 The follow resources are those used to inform and create my submission for the Manchester City F.C. Junior Data Scientist Data Challenge, specifically focussing on Expected Goals and Tracking data. Credits to all those cited below.
