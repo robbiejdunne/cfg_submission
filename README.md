@@ -48,6 +48,17 @@ All documentation saved locally in the [documentation](https://github.com/eddweb
 *    Provided notes and definitions for the a sample of shots [[link](https://github.com/eddwebster/mcfc_submission/blob/main/documentation/shots/ShotData.txt)]; and
 *    [Metrica Sports event definitions](https://github.com/metrica-sports/sample-data/blob/master/documentation/events-definitions.pdf).
 
+## :classical_building: Libaries
+The [Python](https://www.python.org/) libraries used in this notebook include:
+*    [NumPy](https://numpy.org/doc/stable/contents.html)
+*    [pandas](http://pandas.pydata.org/)
+*    [matplotlib](https://matplotlib.org/contents.html?v=20200411155018)
+*    [Plotly](https://plotly.com/)
+*    [scikit-learn](https://scikit-learn.org/stable/)
+*    [SciPy](https://www.scipy.org/)
+*    [XGBoost](https://xgboost.readthedocs.io/en/latest/)
+
+
 ## :bookmark_tabs: Resources
 To see my attempt to create as concise a list of possible of publicly available resources published by the football analytics community, see my [`football_analytics`](https://github.com/eddwebster/football_analytics) repository.
 
