@@ -4,7 +4,7 @@ For a summary pack in Google Slides, please see the following [[link](https://do
 
 <p float="center">
   <a href="https://www.twitter.com/eddwebster"><img src="img/edd_webster/fifa21eddwebsterbanner.png" alt="Edd Webster" width="25%"></a>
-  <a href="https://www.mancity.com/"><img src="img/club_badges/manchester-city-fc-banner.jpg" alt="Manchester City" width="70%"></a>
+  <a href="https://www.mancity.com/"><img src="img/club_badges/manchester-city-fc-banner.jpg" alt="Manchester City" width="60%"></a>
 </p>
 
 ## :wave: About this Repository and Author
