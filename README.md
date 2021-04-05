@@ -65,7 +65,7 @@ To see my attempt to create as concise a list of possible of publicly available 
 
 The follow resources are those used to inform and create my submission for the Manchester City F.C. Junior Data Scientist Data Challenge, specifically focussing on Expected Goals and Tracking data. Credits to all those cited below.
 
-### Football Analytics
+### :soccer: Football Analytics
 
 #### :man_student: Tutorials
 *    Friends of Tracking YouTube channel [[link](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w)] and Mathematical Modelling of Football course by Uppsala University [[link](https://uppsala.instructure.com/courses/28112)]. The GitHub repo with all code featured can be found at the following [[link](https://github.com/Friends-of-Tracking-Data-FoTD)]. Lectures of note include:
@@ -282,13 +282,25 @@ List of notable episodes:
 *    [UCN/USF Sport Management - Sports Business Podcast](https://soundcloud.com/user-736114890):
      +    [Kenneth Cortsen talks to Laurie Shaw from Harvard University](https://soundcloud.com/user-736114890/sport-data-analytics-in-football-kenneth-cortsen-talks-to-laurie-shaw-harvard-university)
 
-#### Tweets
+#### :bird: Tweets
 *    The benefits of including fake data in an Expected Goals model by David Sumpter [[link](https://twitter.com/Soccermatics/status/1260598182624575490)].
 
 
-### Data Science
+### :test_tube: Data Science
 
 #### XGBoost
+*    [Greedy Function Approximation: A Gradient Boosting Machine](https://statweb.stanford.edu/~jhf/ftp/trebst.pdf) by Jerome H. Friedman
+*    [XGBoost: A Scalable Tree Boosting System](https://arxiv.org/abs/1603.02754) by Tianqi Chen and Carlos Guestrin (the authors of XGBoost);
+*    [XGBoost GitHub repo](https://github.com/dmlc/xgboost);
+*    [Awesome XGBoost repo](https://github.com/dmlc/xgboost/tree/master/demo);
+*    [XGBoost official documentation](https://xgboost.readthedocs.io/en/latest/index.html). See the tutorials [[link](https://xgboost.readthedocs.io/en/latest/tutorials/index.html)];
+*    [Gradient Boosting wiki](https://en.wikipedia.org/wiki/Gradient_boosting);
+*    [A Gentle Introduction to XGBoost for Applied Machine Learning](https://machinelearningmastery.com/gentle-introduction-xgboost-applied-machine-learning/) by Jason Brownlee
+*    [How to Develop Your First XGBoost Model in Python](https://machinelearningmastery.com/develop-first-xgboost-model-python-scikit-learn/) by Jason Brownlee
+*    [Story and Lessons Behind the Evolution of XGBoost](https://sites.google.com/site/nttrungmtwiki/home/it/data-science---python/xgboost/story-and-lessons-behind-the-evolution-of-xgboost) - brief history and backstory to the creation of XGBoost by Tianqi Chen;
+*    [XGBoost A Scalable Tree Boosting System](https://www.youtube.com/watch?v=Vly8xGnNiWs) - talk by Tianqi Chen
+*    [Gradient Boosting Machine Learning](https://www.youtube.com/watch?v=wPqtzj5VZus) - talk by Professor Trevor Hastie
+*    [XGBoost](https://www.kaggle.com/alexisbcook/xgboost) lessson, part of the [Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning) course by [Kaggle](https://www.kaggle.com/)
 *    https://www.kaggle.com/prashant111/xgboost-k-fold-cv-feature-importance
 *    https://www.kaggle.com/prashant111/a-guide-on-xgboost-hyperparameters-tuning
 *    https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/
