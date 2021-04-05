@@ -3,8 +3,8 @@ This repository is the code and analysis submitted by [Edd Webster](https://twit
 For a summary pack in Google Slides, please see the following [[link](https://docs.google.com/presentation/d/116D0U_ue2sv6hgLBgHniI228cRhph0qfMuOFA4uuxhs/edit?usp=sharing)], or the PowerPoint version [[link](https://github.com/eddwebster/mcfc_submission/blob/main/slides/Edd%20Webster%20-%20CFG%20Junior%20Data%20Science%20Challenge.pptx)] or PDF version [[link](https://github.com/eddwebster/mcfc_submission/blob/main/slides/Edd%20Webster%20-%20CFG%20Junior%20Data%20Science%20Challenge.pdf)] saved locally in this repository.
 
 <p float="left">
-  <a href="https://www.twitter.com/eddwebster"><img src="img/edd_webster/fifa21eddwebsterbanner.png" alt="Edd Webster" width="100%"></a>
-  <a href="https://www.mancity.com/"><img src="img/club_badges/manchester-city-fc-banner.jpg" alt="Manchester City" width="100%"></a>
+  <a href="https://www.twitter.com/eddwebster"><img src="img/edd_webster/fifa21eddwebsterbanner.png" alt="Edd Webster" width="50%"></a>
+  <a href="https://www.mancity.com/"><img src="img/club_badges/manchester-city-fc-banner.jpg" alt="Manchester City" width="50%"></a>
 </p>
 
 ## :wave: About this Repository and Author
