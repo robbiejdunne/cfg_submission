@@ -4,7 +4,7 @@ For a summary pack in Google Slides, please see the following [[link](https://do
 
                            |                           |
 :-------------------------:|:-------------------------:|:-------------------------:
-![Manchester City](/img/club_badges/manchester-city-fc-banner.jpg)  | ![Manchester City](https://www.mancity.com/"><img src="img/club_badges/manchester-city-fc-banner.jpg)  | ![Manchester City](https://www.mancity.com/"><img src="img/club_badges/manchester-city-fc-banner.jpg)  |
+![Manchester City](/img/club_badges/manchester-city-fc-banner.jpg)  | ![Manchester City](/img/club_badges/manchester-city-fc-banner.jpg)  | ![Manchester City](/img/club_badges/manchester-city-fc-banner.jpg)  |
 
 <p align="center">
   <a href="https://www.mancity.com/"><img src="img/club_badges/manchester-city-fc-banner.jpg" alt="Manchester City" width="45%"></a>
