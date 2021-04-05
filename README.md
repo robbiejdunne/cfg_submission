@@ -22,11 +22,14 @@ For more information about this repository, I am available through all the follo
 *    [Notebooks](#notebooks)
 *    [Data Sources](#data)
 *    [Resources](#resources)
-     +    [Tutorials](#tutorials)
-     +    [Libaries and GitHub Repositories](#libraries)
-     +    [Written Pieces](#written--pieces)
-     +    [Videos](#videos)
-     +    [Podcasts](#podcasts)
+     +    Football Analytics:
+          -    [Tutorials](#tutorials)
+          -    [Libaries and GitHub Repositories](#libraries)
+          -    [Written Pieces](#written--pieces)
+          -    [Videos](#videos)
+          -    [Podcasts](#podcasts)
+     +    Data Science:
+          -    [XGBoost](#xgboost)
 
 ## :notebook_with_decorative_cover: Notebooks
 For code used to produce the Chance Quality Models and engineered dataset of game two of the Metrica Sports sample data, see the [notebooks](https://github.com/eddwebster/mcfc_submission/tree/master/notebooks) subfolder, in which the workflow is divided into the following:
