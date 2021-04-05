@@ -1,4 +1,4 @@
-# Edd Webster Junior Data Scientist Data Challenge Submission
+# Edd Webster CFG Junior Data Scientist Data Challenge Submission
 This repository is the code and analysis submitted by [Edd Webster](https://twitter.com/eddwebster) for the Manchester City F.C. Junior Data Scientist Data Challenge submission, including a list of publicly available resources published by the football analytics community that are related to the project. 
 For a summary pack in Google Slides, please see the following [[link](https://docs.google.com/presentation/d/116D0U_ue2sv6hgLBgHniI228cRhph0qfMuOFA4uuxhs/edit?usp=sharing)], or the PowerPoint version [[link](https://github.com/eddwebster/mcfc_submission/blob/main/slides/Edd%20Webster%20-%20CFG%20Junior%20Data%20Science%20Challenge.pptx)] or PDF version [[link](https://github.com/eddwebster/mcfc_submission/blob/main/slides/Edd%20Webster%20-%20CFG%20Junior%20Data%20Science%20Challenge.pdf)] saved locally in this repository.
 
@@ -19,16 +19,21 @@ For more information about this repository, I am available through all the follo
 *    [public.tableau.com/profile/edd.webster](https://public.tableau.com/profile/edd.webster).
 
 ## :clipboard: Contents:
-*    [Notebooks](#notebooks)
-*    [Data Sources](#data)
-*    [Resources and Further Reading](#resources)
-     +    [Football Analytics](#footballanalytics):
-          -    [Tutorials](#tutorials)
-          -    [Libaries and GitHub Repositories](#libraries)
-          -    [Written Pieces](#written--pieces)
-          -    [Videos](#videos)
-          -    [Podcasts](#podcasts)
-     +    [Data Science](#datascience):
+*    [Notebooks](#notebook_with_decorative_cover-notebooks)
+*    [Data](#floppy_disk-data)
+     +    [Data Sources](#information_source-data-sources)
+     +    [Documentation](#page_facing_up-documentation)
+*    [Resources and Further Reading](#bookmark_tabs-resources-and-further-reading)
+     +    [Football Analytics](#soccer-football-analytics):
+          -    [Tutorials](#man_student-tutorials)
+          -    [Libaries and GitHub Repositories](#classical_building-libaries-and-github-repos)
+          -    [Written Pieces](#black_nib-written-pieces)
+          -    [Videos](#vhs-videos)
+          -    [Podcasts](#loud_sound-podcasts)
+          -    [Tweets](#bird-tweets)
+     +    [Data Science](#test_tube-data-science):
+          -    [Mathematics](#mathematics)
+          -    [Logistic Regression](#logistic-regression)
           -    [XGBoost](#xgboost)
 
 ## :notebook_with_decorative_cover: Notebooks
@@ -36,7 +41,7 @@ For code used to produce the Chance Quality Models and engineered dataset of gam
 *    [Metrica Sports](https://github.com/eddwebster/football_analytics/tree/master/notebooks/metrica-sports) - analysis of the major chances that each team created during game 2 with an exported dataset of shots for predictions to be made by the following Chance Quality Models developed from the shots data.
 *    [Chance Quality Models from Shots Data](https://github.com/eddwebster/football_analytics/tree/master/notebooks/shots) to calculate the probability of a shot resulting in a goal. Two models have been created (so far), the first, a Logistic Regression model and the second using Gradient Boosting algorithms:
      +    [Logistic Regression model](https://github.com/eddwebster/mcfc_submission/blob/main/notebooks/chance_quality_modelling/Creating%20a%20Chance%20Quality%20Model%20from%20Shots%20Data.ipynb) - initial model created as part of the submitted task); and
-     +    [Secondary model created using XGBoost](https://github.com/eddwebster/mcfc_submission/blob/main/notebooks/chance_quality_modelling/2\)%20Gradient%20Boosted%20Chance%20Quality%20Model%20from%20Shots%20Data.ipynb) - an improved model created after the initial submisssion on 21/03/2021, that explores creating a model with improved performance using Gradient Boosted algoirthms.
+     +    [Secondary model created using XGBoost](https://github.com/eddwebster/mcfc_submission/blob/main/notebooks/chance_quality_modelling/2\)%20Gradient%20Boosted%20Chance%20Quality%20Model%20from%20Shots%20Data.ipynb) - an improved model created after the initial submisssion on 21/03/2021, that explores trying to create a model with improved performance using Gradient Boosted algoirthms.
 
 ## :floppy_disk: Data
 
@@ -61,9 +66,9 @@ The [Python](https://www.python.org/) libraries used in this notebook include:
 *    [XGBoost](https://xgboost.readthedocs.io/en/latest/)
 
 ## :bookmark_tabs: Resources and Further Reading
-To see my attempt to create as concise a list of possible of publicly available resources published by the football analytics community, see my [`football_analytics`](https://github.com/eddwebster/football_analytics) repository.
+Please see my [`football_analytics`](https://github.com/eddwebster/football_analytics) repository for my attempt to create as concise a list of possible of publicly available resources published by the football analytics community.
 
-The follow resources are those used to inform and create my submission for the Manchester City F.C. Junior Data Scientist Data Challenge, specifically focussing on Expected Goals and Tracking data. Credits to all those cited below.
+The follow resources are those that were specifically used to inform and create my submission for the CFG Junior Data Scientist Data Challenge, specifically focusing on Expected Goals and Tracking data. I have also included links to other topics related to the role such as the application of Reinforcement Learning in football. Credits to all those cited below.
 
 ### :soccer: Football Analytics
 
