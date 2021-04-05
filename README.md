@@ -2,7 +2,7 @@
 This repository is the code and analysis submitted by [Edd Webster](https://twitter.com/eddwebster) for the Manchester City F.C. Junior Data Scientist Data Challenge submission, including a list of publicly available resources published by the football analytics community that are related to the project. 
 For a summary pack in Google Slides, please see the following [[link](https://docs.google.com/presentation/d/116D0U_ue2sv6hgLBgHniI228cRhph0qfMuOFA4uuxhs/edit?usp=sharing)], or the PowerPoint version [[link](https://github.com/eddwebster/mcfc_submission/blob/main/slides/Edd%20Webster%20-%20CFG%20Junior%20Data%20Science%20Challenge.pptx)] or PDF version [[link](https://github.com/eddwebster/mcfc_submission/blob/main/slides/Edd%20Webster%20-%20CFG%20Junior%20Data%20Science%20Challenge.pdf)] saved locally in this repository.
 
-<p float="center">
+<p float="center" align="center">
   <a href="https://www.twitter.com/eddwebster"><img src="img/edd_webster/fifa21eddwebsterbanner.png" alt="Edd Webster" width="25%"></a>
   <a href="https://www.mancity.com/"><img src="img/club_badges/manchester-city-fc-banner.jpg" alt="Manchester City" width="60%"></a>
 </p>
