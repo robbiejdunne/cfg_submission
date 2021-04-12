@@ -5,7 +5,7 @@ For a summary pack in Google Slides, please see the following [[link](https://do
 
 <p align="center">
   <a href="https://www.twitter.com/eddwebster"><img src="img/edd_webster/fifa21eddwebsterbanner.png" alt="Edd Webster" width="20%" style="vertical-align:middle"></a>
-  <a href="https://www.mancity.com/"><img src="img/club_badges/cfg-banner.png" alt="Manchester City" width="45%" style="vertical-align:middle"></a>
+  <a href="https://www.cityfootballgroup.com/"><img src="img/club_badges/cfg-banner.jpg" alt="City Football Group" width="45%" style="vertical-align:middle"></a>
   <a href="https://metrica-sports.com/"><img src="img/logos/metrica-sports_long.jpeg" alt="Metrica Sports" width="25%" style="vertical-align:middle"></a>
 </p>
 
