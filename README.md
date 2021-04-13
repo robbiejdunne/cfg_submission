@@ -312,6 +312,7 @@ List of notable episodes:
 *    [Intuition behind ROC-AUC score](https://towardsdatascience.com/intuition-behind-roc-auc-score-1456439d1f30)
 *    [Confusion Matrix, Accuracy, Specificity, Precision, and Recall](https://www.coursera.org/lecture/supervised-learning-classification/confusion-matrix-accuracy-specificity-precision-and-recall-e9U0e)
 *    [Log Loss or Cross-Entropy Cost Function in Logistic Regression](https://www.youtube.com/watch?v=MztgenIfGgM)
+*    [What is Log Loss?](https://www.kaggle.com/dansbecker/what-is-log-loss) by Dan Becker
 
 #### Logistic Regression
 *    [scikit-learn Logistic Regression official docs](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)
