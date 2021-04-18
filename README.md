@@ -312,6 +312,8 @@ List of notable episodes:
 *    [Intuition behind ROC-AUC score](https://towardsdatascience.com/intuition-behind-roc-auc-score-1456439d1f30)
 *    [Confusion Matrix, Accuracy, Specificity, Precision, and Recall](https://www.coursera.org/lecture/supervised-learning-classification/confusion-matrix-accuracy-specificity-precision-and-recall-e9U0e)
 *    [Log Loss or Cross-Entropy Cost Function in Logistic Regression](https://www.youtube.com/watch?v=MztgenIfGgM)
+*    [Binary Cross Entropy/Log Loss for Binary Classification](https://www.analyticsvidhya.com/blog/2021/03/binary-cross-entropy-log-loss-for-binary-classification/)
+*    [A Gentle Introduction to Cross-Entropy for Machine Learning](https://machinelearningmastery.com/cross-entropy-for-machine-learning/) by Jason Brownlee
 *    [What is Log Loss?](https://www.kaggle.com/dansbecker/what-is-log-loss) by Dan Becker
 
 #### Logistic Regression
