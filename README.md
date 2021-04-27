@@ -303,14 +303,26 @@ List of notable episodes:
 *    [Check whether a given point lies inside a triangle or not](https://www.geeksforgeeks.org/check-whether-a-given-point-lies-inside-a-triangle-or-not/)
 
 #### Classification Metrics
-*    [scikit-learn documentation classification metrics](https://scikit-learn.org/stable/modules/classes.html#module-sklearn.metrics):
-     +    [Log Loss](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.log_loss.html)
-     +    [ROC AUC](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.roc_auc_score.html#sklearn.metrics.roc_auc_score)
-*    [Accuracy, Recall, Precision, F-Score & Specificity, which to optimize on?](https://towardsdatascience.com/accuracy-recall-precision-f-score-specificity-which-to-optimize-on-867d3f11124)
+
+##### General
+*    [Confusion Matrix, Accuracy, Specificity, Precision, and Recall](https://www.coursera.org/lecture/supervised-learning-classification/confusion-matrix-accuracy-specificity-precision-and-recall-e9U0e)
+*    [Confusion matrix](https://en.wikipedia.org/wiki/Confusion_matrix)
+
+##### Overview
+*    [scikit-learn documentation classification metrics](https://scikit-learn.org/stable/modules/classes.html#module-sklearn.metrics)
+
+##### ROC AUC
+*    [Receiver operating characteristic Wiki](https://en.wikipedia.org/wiki/Receiver_operating_characteristic)
+*    [Understanding AUC-ROC](https://towardsdatascience.com/understanding-auc-roc-curve-68b2303cc9c5)
+*    [How to Use ROC Curves and Precision-Recall Curves for Classification in Python](https://machinelearningmastery.com/roc-curves-and-precision-recall-curves-for-classification-in-python/) by Jason Brownlee
+*    [scikit-learn ROC AUC score](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.roc_auc_score.html#sklearn.metrics.roc_auc_score)
+*    [Intuition behind ROC-AUC score](https://towardsdatascience.com/intuition-behind-roc-auc-score-1456439d1f30)
+
+##### Log Loss
+*    [Log Loss](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.log_loss.html)
+*    [Accuracy, Recall, Precision, F-Score & Specificity, which to optimise on?](https://towardsdatascience.com/accuracy-recall-precision-f-score-specificity-which-to-optimize-on-867d3f11124)
 *    [Understanding binary cross-entropy / log loss: a visual explanation](https://towardsdatascience.com/understanding-binary-cross-entropy-log-loss-a-visual-explanation-a3ac6025181a)
 *    [Intuition behind Log-loss score](https://towardsdatascience.com/intuition-behind-log-loss-score-4e0c9979680a)
-*    [Intuition behind ROC-AUC score](https://towardsdatascience.com/intuition-behind-roc-auc-score-1456439d1f30)
-*    [Confusion Matrix, Accuracy, Specificity, Precision, and Recall](https://www.coursera.org/lecture/supervised-learning-classification/confusion-matrix-accuracy-specificity-precision-and-recall-e9U0e)
 *    [Log Loss or Cross-Entropy Cost Function in Logistic Regression](https://www.youtube.com/watch?v=MztgenIfGgM)
 *    [Lecture 6.4 — Logistic Regression | Cost Function]](https://www.youtube.com/watch?v=HIQlmHxI6-0) by Andrew Ng
 *    [Binary Cross Entropy/Log Loss for Binary Classification](https://www.analyticsvidhya.com/blog/2021/03/binary-cross-entropy-log-loss-for-binary-classification/)
