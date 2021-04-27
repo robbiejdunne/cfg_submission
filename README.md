@@ -57,13 +57,14 @@ All documentation saved locally in the [documentation](https://github.com/eddweb
 
 ## :classical_building: Libaries
 The [Python](https://www.python.org/) libraries used in this notebook include:
-*    [NumPy](https://numpy.org/doc/stable/contents.html)
-*    [pandas](http://pandas.pydata.org/)
-*    [matplotlib](https://matplotlib.org/contents.html?v=20200411155018)
-*    [Plotly](https://plotly.com/)
-*    [scikit-learn](https://scikit-learn.org/stable/)
-*    [SciPy](https://www.scipy.org/)
-*    [XGBoost](https://xgboost.readthedocs.io/en/latest/)
+*    [NumPy](https://numpy.org/doc/stable/contents.html);
+*    [pandas](http://pandas.pydata.org/);
+*    [matplotlib](https://matplotlib.org/contents.html?v=20200411155018);
+*    [Plotly](https://plotly.com/);
+*    [scikit-learn](https://scikit-learn.org/stable/);
+*    [SciPy](https://www.scipy.org/);
+*    [XGBoost](https://xgboost.readthedocs.io/en/latest/); and
+*    [SHAP](https://github.com/slundberg/shap).
 
 ## :bookmark_tabs: Resources and Further Reading
 Please see my [`football_analytics`](https://github.com/eddwebster/football_analytics) repository for my attempt to create as concise a list of possible of publicly available resources published by the football analytics community.
