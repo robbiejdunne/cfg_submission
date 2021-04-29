@@ -370,3 +370,13 @@ List of notable episodes:
 *    [Gradient Boosting from scratch](https://medium.com/mlreview/gradient-boosting-from-scratch-1e317ae4587d) by Prince Grover
 *    [HyperParameter Tuning — Hyperopt Bayesian Optimization for (Xgboost and Neural network)](https://medium.com/analytics-vidhya/hyperparameter-tuning-hyperopt-bayesian-optimization-for-xgboost-and-neural-network-8aedf278a1c9) by Tinu Rohith D
 *    [Complete Guide to Parameter Tuning in XGBoost with codes in Python](https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/) by Aarshay Jain
+
+##### SHAP
+*    [Official GitHub repo](https://github.com/slundberg/shap)]
+*    [Official documentation](https://shap.readthedocs.io/en/latest/tabular_examples.html)
+     +    [Linear models](https://shap.readthedocs.io/en/latest/tabular_examples.html#linear-models)
+     +    [Tree-based models](https://shap.readthedocs.io/en/latest/tabular_examples.html#tree-based-models)
+*    [A Unified Approach to Interpreting Model Predictions](https://papers.nips.cc/paper/2017/file/8a20a8621978632d76c43dfd28b67767-Paper.pdf) by Scott M. Lundberg and Su-In Lee
+*    [True to the Model or True to the Data?](https://arxiv.org/pdf/2006.16234.pdf) by Hugh Chen, Joseph D. Janizek, Scott Lundberg, and Su-In Lee
+*    [Interpretable Machine Learning with XGBoost](https://towardsdatascience.com/interpretable-machine-learning-with-xgboost-9ec80d148d27) by Scott Lundberg (creator the of SHAP library)
+*    [SHAP Values Explained Exactly How You Wished Someone Explained to You](https://towardsdatascience.com/shap-explained-the-way-i-wish-someone-explained-it-to-me-ab81cc69ef30)
