@@ -330,6 +330,8 @@ List of notable episodes:
 *    [A Gentle Introduction to Cross-Entropy for Machine Learning](https://machinelearningmastery.com/cross-entropy-for-machine-learning/) by Jason Brownlee
 *    [What is Log Loss?](https://www.kaggle.com/dansbecker/what-is-log-loss) by Dan Becker
 
+#### Modeling
+
 ##### Logistic Regression
 *    [scikit-learn Logistic Regression official docs](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)
 *    [Logistic Regression wiki](https://en.wikipedia.org/wiki/Logistic_regression#:~:text=Logistic%20regression%20is%20a%20statistical,a%20form%20of%20binary%20regression)
@@ -371,8 +373,10 @@ List of notable episodes:
 *    [HyperParameter Tuning — Hyperopt Bayesian Optimization for (Xgboost and Neural network)](https://medium.com/analytics-vidhya/hyperparameter-tuning-hyperopt-bayesian-optimization-for-xgboost-and-neural-network-8aedf278a1c9) by Tinu Rohith D
 *    [Complete Guide to Parameter Tuning in XGBoost with codes in Python](https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/) by Aarshay Jain
 
+#### Packages
+
 ##### SHAP
-*    [Official GitHub repo](https://github.com/slundberg/shap)]
+*    [Official GitHub repo](https://github.com/slundberg/shap)
 *    [Official documentation](https://shap.readthedocs.io/en/latest/tabular_examples.html)
      +    [Linear models](https://shap.readthedocs.io/en/latest/tabular_examples.html#linear-models)
      +    [Tree-based models](https://shap.readthedocs.io/en/latest/tabular_examples.html#tree-based-models)
