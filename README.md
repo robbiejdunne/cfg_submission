@@ -383,4 +383,5 @@ List of notable episodes:
 *    [A Unified Approach to Interpreting Model Predictions](https://papers.nips.cc/paper/2017/file/8a20a8621978632d76c43dfd28b67767-Paper.pdf) by Scott M. Lundberg and Su-In Lee
 *    [True to the Model or True to the Data?](https://arxiv.org/pdf/2006.16234.pdf) by Hugh Chen, Joseph D. Janizek, Scott Lundberg, and Su-In Lee
 *    [Interpretable Machine Learning with XGBoost](https://towardsdatascience.com/interpretable-machine-learning-with-xgboost-9ec80d148d27) by Scott Lundberg (creator the of SHAP library)
+*    [Explain Your Model with the SHAP Values](https://towardsdatascience.com/explain-your-model-with-the-shap-values-bc36aac4de3d) by Dr. Dataman
 *    [SHAP Values Explained Exactly How You Wished Someone Explained to You](https://towardsdatascience.com/shap-explained-the-way-i-wish-someone-explained-it-to-me-ab81cc69ef30)
