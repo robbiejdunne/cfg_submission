@@ -33,8 +33,9 @@ For more information about this repository, I am available through all the follo
           -    [Tweets](#bird-tweets)
      +    [Data Science](#test_tube-data-science):
           -    [Mathematics](#mathematics)
-          -    [Logistic Regression](#logistic-regression)
-          -    [XGBoost](#xgboost)
+          -    [Classification Metrics](#classification-metrics)
+          -    [Modeling](#modeling)
+          -    [Feature Interpretation](#feature-interpretation)
 
 ## :notebook_with_decorative_cover: Notebooks
 For code used to produce the Chance Quality Models and engineered dataset of game two of the Metrica Sports sample data, see the [notebooks](https://github.com/eddwebster/mcfc_submission/tree/master/notebooks) subfolder, in which the workflow is divided into the following:
@@ -373,7 +374,7 @@ List of notable episodes:
 *    [HyperParameter Tuning — Hyperopt Bayesian Optimization for (Xgboost and Neural network)](https://medium.com/analytics-vidhya/hyperparameter-tuning-hyperopt-bayesian-optimization-for-xgboost-and-neural-network-8aedf278a1c9) by Tinu Rohith D
 *    [Complete Guide to Parameter Tuning in XGBoost with codes in Python](https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/) by Aarshay Jain
 
-#### Feature Importance
+#### Feature Interpretation
 
 ##### SHAP
 *    [Official GitHub repo](https://github.com/slundberg/shap)
