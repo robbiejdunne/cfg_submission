@@ -46,7 +46,7 @@ For code used to produce the Chance Quality Models and engineered dataset of gam
 
 ## :floppy_disk: Data
 
-### :information_source: Data sources
+### :information_source: Data Sources
 Due to the 100mb file size limitation in GitHub, all datasets used in this analysis, including the Tracking data, have been exported and made publicly available to view and download in Google Drive at the following [[link](https://drive.google.com/drive/folders/1r2Rf3CPsKnxyxtmDRIHQ2eoW5WwCzBa0?usp=sharing)]. However, all the important files are below 100mb, including the shots data provided, and the exported Metrica Sports shot data with calculated features including Interfering and Intervening players, both raw and engineered, are available in the [data](https://github.com/eddwebster/mcfc_submission/tree/main/data) folder of this repository.
 *    The provided sample of shots data; and
 *    [Metrica Sports Sample Tracking and corresponding Event data](https://github.com/metrica-sports/sample-data). For code to work with this data, see the  [`LaurieOnTracking`](https://github.com/Friends-of-Tracking-Data-FoTD/LaurieOnTracking) GitHub repo by [Laurie Shaw](https://twitter.com/EightyFivePoint) and the corresponding Friends of Tracking tutorials;
